@@ -10,7 +10,6 @@ public class MainAccountRegistration {
 
         String accountHolderName;
         int accountNumber;
-        double accountDeposit;
         char response;
         AccountRegistration registration;
 
