@@ -27,7 +27,6 @@ public class MainSalary {
                 System.out.print("Id: ");
                 id = scanner.nextInt();
             }
-
             System.out.print("Name: ");
             scanner.nextLine();
             String name = scanner.nextLine();
